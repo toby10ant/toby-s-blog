@@ -6,7 +6,7 @@ title: Home
 # Welcome
 
 This is a basic Jekyll site running on GitHub Pages.  
-Add posts in the `_posts/` folder to get started.
+Add posts in the `_posts/ ` folder to get started.
 
 Latest posts:
 <ul>
